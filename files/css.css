@@ -1,0 +1,22 @@
+body {
+	background: url(https://fullhdoboi.ru/wp-content/uploads/_ph/3/976295382.jpg);
+	color: rgb(0, 0, 0);
+	font-family: sans-serif;
+	background-size: cover;
+	background-attachment: fixed;
+}
+a {
+text-decoration: none;
+color: #ff00f2 
+}
+a:hover {
+color: #ff0000;  
+text-decoration: none;
+}
+p {
+	border: 1px solid rgb(38, 0, 255); /* Толщина рамки в пикселах,
+							  тип границы (в данном случае сплошная линия) и
+							  цвет линии */
+	padding: 5px; /* Расстояние от текста до рамки */
+	background-color: rgb(0, 217, 255);
+   }
